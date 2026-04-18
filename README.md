@@ -18,7 +18,7 @@ The challenge:
 - Store dataset covering sales, discount, and profit performance across regions and product lines
 
 ## Tools & Technologies
-- **Tableau Desktop / Tableau Public**
+- **Tableau**
 
 ## Data Preparation / Methodology
 Data was clean and required no pre-processing prior to import into Tableau. All aggregations and calculations were performed directly within Tableau.
@@ -30,14 +30,17 @@ Data was clean and required no pre-processing prior to import into Tableau. All 
 - **Product-level exploration:** Treemap enables quick identification of the most and least profitable individual products
 
 ## Visualizations Included
-- **Bar Chart — Sales Mix:** Breakdown of sales contribution across product sub-categories
-- **Bar Chart — Sales/Profit Mix:** Side-by-side comparison of sales and profit across sub-categories, revealing where high sales do not translate to high profit
-- **Bar Chart — Profit Sizes:** Ranked view of profit magnitude across sub-categories for quick performance comparison
-- **Map — State Profits:** Choropleth map showing profit distribution across 49 U.S. states, highlighting geographic strengths and problem areas
-- **Symbol Map — City Profits:** City-level profit bubbles providing granular geographic insight beyond state averages
-- **Treemap — Product Profits:** Profit performance visualized by individual product, sized and colored by profit contribution
-- **Scatter Plot — Profit vs. Discounts:** Reveals the relationship between discount levels and profit outcomes across transactions
-- **Continuous Line Chart — Profit Trend:** Tracks profit performance over time to identify growth periods, seasonal patterns, and decline phases
+- 📌 **Bar Chart — Sales Mix:** Breakdown of sales contribution across product sub-categories
+- 📌 **Bar Chart — Sales/Profit Mix:** Side-by-side comparison of sales and profit across sub-categories, revealing where high sales do not translate to high profit
+- 📌 **Bar Chart — Profit Sizes:** Ranked view of profit magnitude across sub-categories for quick performance comparison
+- 📌 **Map — State Profits:** Choropleth map showing profit distribution across 49 U.S. states, highlighting geographic strengths and problem areas
+- 📌 **Symbol Map — City Profits:** City-level profit bubbles providing granular geographic insight beyond state averages
+- 📌 **Treemap — Product Profits:** Profit performance visualized by individual product, sized and colored by profit contribution
+- 📌 **Scatter Plot — Profit vs. Discounts:** Reveals the relationship between discount levels and profit outcomes across transactions
+- 📌**Continuous Line Chart — Profit Trend:** Tracks profit performance over time to identify growth periods, seasonal patterns, and decline phases
+
+ [**Dashboard Overview**]
+ <img width="1366" height="768" alt="Screenshot (582)" src="https://github.com/user-attachments/assets/795edf01-c96c-4281-bb5b-3abf1e9cf5da" />
 
 🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/shared/JT9PYPQ78?:display_count=n&:origin=viz_share_link)**
 
